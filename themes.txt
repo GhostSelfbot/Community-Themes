@@ -1,1 +1,1 @@
-Ghost.json
+Ghost
