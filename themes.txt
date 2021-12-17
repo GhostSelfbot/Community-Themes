@@ -11,3 +11,4 @@ shibe
 obama
 Discord-Troll-Commands
 Sigma
+GhostNeon
